@@ -1,6 +1,5 @@
 import streamlit
 import plotly
-import pandas
 import re
 import pdfplumber
 import datetime
