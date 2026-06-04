@@ -1,8 +1,7 @@
-streamlit
-pdfplumber
-plotly
-fpdf2
-pandas
+import streamlit as st
+import plotly.express as px
+import fpdf2
+import pandas as pd
 import re
 import pdfplumber
 import datetime
